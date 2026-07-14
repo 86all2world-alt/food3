@@ -1,0 +1,6 @@
+{
+  "name": "열두 달 제철 건강 영양 가이드",
+  "description": "15년 차 베테랑 학교 영양교사가 전하는 성장기 청소년을 위한 월별 제철 식재료, 조리 과학, 안전 수칙 및 도전 영양 퀴즈",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
